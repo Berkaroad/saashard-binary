@@ -22,3 +22,9 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+.vscode
+.DS_Store
+darwin_amd64
+linux_amd64
+windows_amd64
